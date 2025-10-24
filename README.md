@@ -7,20 +7,20 @@ My work applies **machine learning** and **data science** techniques to study st
 
 ## 🔎 Research Interests
 
-- 🧩 Geometric Machine Learning  
-- 🔄 Flow-based Generative Models  
-- 📊 Bayesian Inference  
-- 🌀 Calabi–Yau and G₂ Manifolds  
-- ⛓️ String Theory  
+- Geometric Machine Learning  
+- Flow-based Generative Models  
+- Bayesian Inference  
+- Calabi–Yau and G₂ Manifolds  
+- String Theory  
 
 ---
 
 ## 🔬 Selected Projects
 
-### 🧮 [Generating Calabi–Yau Manifolds](https://github.com/elliheyes/Polytope-Generation)
+### [Generating Calabi–Yau Manifolds](https://github.com/elliheyes/Polytope-Generation)
 *We generate Calabi–Yau manifolds with specific topological properties via the toric construction using a genetic algorithm.*
 
-### 🧬 [Learning G₂ Geometry](https://github.com/edhirst/MLcCY7)
+### [Learning G₂ Geometry](https://github.com/edhirst/MLcCY7)
 *We predict topological invariants of contact Calabi–Yau link G₂ manifolds.*
 
 ---
