@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elli Heyes
 
 🎓 I'm currently a **Schmidt Sciences AI in Science Fellow** at **Imperial College London**.  
-My work applies **machine learning** and **data science** techniques to study deep structures in **mathematics** and **theoretical physics**.
+My work applies **machine learning** and **data science** techniques to study structures in **mathematics** and **theoretical physics**.
 
 ---
 
