@@ -27,5 +27,3 @@ My work applies **machine learning** and **data science** techniques to study de
 
 📫 **Get in touch:**  
 [Email](mailto:elli.heyes@live.com) • [Google Scholar](https://scholar.google.com/citations?user=xl8s55QAAAAJ&hl=en) • [LinkedIn](https://www.linkedin.com/in/elli-heyes/?originalSubdomain=uk)
-
-⭐️ *From [elliheyes](https://github.com/elliheyes)*
