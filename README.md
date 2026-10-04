@@ -19,7 +19,7 @@ My work applies **machine learning** and **numerical methods** to study objects 
 *We generate Calabi–Yau manifolds via the toric construction using a genetic algorithm.*
 
 ### [Rigorous Kahler-Einstein Metric](https://github.com/william-hadden/toric-verified-numerics)
-*We produce an approximate Einstein metric and prove that this is close to the true Einstein metric.*
+*We produce an approximate Einstein metric on a toric Kahler manifold and prove that this is close to the true Einstein metric.*
 
 ---
 
