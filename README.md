@@ -1,16 +1,14 @@
 # 👋 Hi, I'm Elli Heyes
 
-🎓 I'm currently a **Schmidt Sciences AI in Science Fellow** at **Imperial College London**.  
-My work applies **machine learning** and **data science** techniques to study structures in **mathematics** and **theoretical physics**.
+🎓 I'm currently a **Postdoc** at **California Institute of Technology** sponsored by a **Lindemann Fellowship**.  
+My work applies **machine learning** and **numerical methods** to study objects in **mathematics** and **theoretical physics**.
 
 ---
 
 ## 🔎 Research Interests
 
-- Geometric Machine Learning  
-- Flow-based Generative Models  
-- Bayesian Inference  
-- Calabi–Yau and G₂ Manifolds  
+- Machine Learning
+- Special Holonomy Manifolds  
 - String Theory  
 
 ---
@@ -20,8 +18,8 @@ My work applies **machine learning** and **data science** techniques to study st
 ### [Generating Calabi–Yau Manifolds](https://github.com/elliheyes/Polytope-Generation)
 *We generate Calabi–Yau manifolds via the toric construction using a genetic algorithm.*
 
-### [Learning G₂ Geometry](https://github.com/edhirst/MLcCY7)
-*We predict topological invariants of contact Calabi–Yau link G₂ manifolds.*
+### [Rigorous Kahler-Einstein Metric](https://github.com/edhirst/MLcCY7](https://github.com/william-hadden/toric-verified-numerics)
+*We produce an approximate Einstein metric and prove that this is close to the true Einstein metric.*
 
 ---
 
