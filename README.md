@@ -8,7 +8,8 @@ My work applies **machine learning** and **numerical methods** to study objects 
 ## 🔎 Research Interests
 
 - Machine Learning
-- Special Holonomy Manifolds  
+- Special Holonomy Manifolds
+- Combinatorics
 - String Theory  
 
 ---
